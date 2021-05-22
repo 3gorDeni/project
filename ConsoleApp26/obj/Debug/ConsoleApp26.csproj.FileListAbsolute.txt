@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\student\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb
